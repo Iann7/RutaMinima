@@ -1,4 +1,5 @@
 #TODO TEST
+#TODO CONSIDERAR podas
 def main():
     return
 
